@@ -7,7 +7,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
-  "homepage": "https://github.com/fan12306/jenkins-job",
+  "homepage": "https://fan12306/github.io.jenkins-job",
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
